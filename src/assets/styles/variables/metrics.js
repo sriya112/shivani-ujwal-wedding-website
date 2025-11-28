@@ -1,8 +1,8 @@
 export default {
-  paddingHorizontal: '',
+  paddingHorizontal: '20px',
   radius: {
-    small: '',
-    medium: '',
-    large: '',
+    small: '4px',
+    medium: '8px',
+    large: '16px',
   },
 };
