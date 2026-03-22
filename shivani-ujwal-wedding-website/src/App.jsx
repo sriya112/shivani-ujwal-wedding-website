@@ -1,11 +1,11 @@
 import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Home from '../pages/Home';
-import Haldi from '../pages/Haldi';
-import Mehndi from '../pages/Mehndi';
-import Sangeet from '../pages/Sangeet';
-import Wedding from '../pages/Wedding';
-import Reception from '../pages/Reception';
+import Home from './pages/Home';
+import Haldi from './pages/Haldi';
+import Mehndi from './pages/Mehndi';
+import Sangeet from './pages/Sangeet';
+import Wedding from './pages/Wedding';
+import Reception from './pages/Reception';
 
 export default function App() {
   return (

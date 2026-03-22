@@ -1,5 +1,5 @@
-import Gallery from '../src/components/Gallery';
-import MapEmbed from '../src/components/MapEmbed';
+import Gallery from '../components/Gallery';
+import MapEmbed from '../components/MapEmbed';
 
 export default function Mehndi() {
   return (
