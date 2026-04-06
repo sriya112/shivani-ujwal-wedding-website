@@ -1,14 +1,14 @@
-import Gallery from '../components/Gallery';
+// import Gallery from '../components/Gallery';
 import MapEmbed from '../components/MapEmbed';
 
 export default function Sangeet() {
   return (
     <section className="page">
       <h1>Sangeet</h1>
-      <p className="event-detail">City: Placeholder City</p>
-      <p className="event-detail">Venue: Placeholder Venue</p>
-      <Gallery />
-      <MapEmbed address="Placeholder Venue City" />
+      <p className="event-detail">Friday, May 1, 2026 at 6:00 PM</p>
+      <p className="event-detail">Tandoor Cuisine of India</p>
+      <p className="event-detail">1132 E Katella Ave, Orange, CA 92867</p>
+      <MapEmbed address="1132 E Katella Ave, Orange, CA 92867" />
     </section>
   );
 }
