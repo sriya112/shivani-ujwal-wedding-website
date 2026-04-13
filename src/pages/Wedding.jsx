@@ -4,9 +4,13 @@ export default function Wedding() {
   return (
     <section className="page center">
       <img className="event-graphic event-graphic-lg sticker" src="https://t3.ftcdn.net/jpg/07/32/42/24/360_F_732422498_GczZX79vY8YUYc0rjycGd0mLUdl4SeMS.jpg" alt="Wedding ceremony" />
-      <h1>Wedding Ceremony</h1>
-      <p className="event-detail">Saturday, May 3rd, 2026 at 7:30 AM</p>
-      <p className="event-detail">Sheraton Park Hotel at the Anaheim Resort</p>
+      <h1 style={{ marginTop: 0 }}>Wedding Ceremony</h1>
+      <hr className="divider" />
+      <p className="event-detail dress-code"><em>Dress Code: Indian Traditional or vibrant colors encouraged</em></p>
+      <p className="event-detail dress-code"><em>Sunday, May 3rd, 2026 at 7:30 AM</em></p>
+      <span className="ornament">✦ ✦ ✦ ✦ ✦</span>
+      <p className="event-detail venue-subtitle">The Lawn</p>
+      <p className="event-detail venue-subtitle">Sheraton Park Hotel at the Anaheim Resort</p>
       <p className="event-detail">1855 S Harbor Blvd, Anaheim, CA 92802</p>
 
       <h2 className="schedule-heading">Schedule</h2>

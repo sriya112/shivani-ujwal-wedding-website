@@ -45,7 +45,7 @@ const accommodations = [
 
 export default function Accommodations() {
   return (
-    <section className="page">
+    <section className="page center">
       <h1>Accommodation Recommendations</h1>
       <div className="accommodation-grid">
         {accommodations.map((place, i) => (
