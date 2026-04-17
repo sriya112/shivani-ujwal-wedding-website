@@ -10,6 +10,7 @@ export default function Navbar() {
         <Link to="/haldi">Haldi</Link>
         <Link to="/wedding">Wedding</Link>
         <Link to="/accommodations">Accommodation Recommendations</Link>
+        <Link to="/reception">Reception</Link>
         <Link to="/registry">Registry</Link>
       </div>
     </nav>

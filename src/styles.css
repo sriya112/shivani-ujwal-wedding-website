@@ -99,10 +99,17 @@ h3, h4 {
 }
 
 /* Decorative Elements */
+.date {
+  font-style: italic;
+  color: #6b1426 !important;
+  font-weight: 600;
+}
+
 .dress-code {
   font-style: italic;
   color: #6b1426 !important;
   font-weight: 600;
+  font-size: 15px !important;
 }
 
 .venue-subtitle {
@@ -133,8 +140,17 @@ h3, h4 {
   mix-blend-mode: multiply;
 }
 
+.event-graphic-lg-w {
+  width: 420px;
+  margin-bottom: -15px;
+}
+
+.event-graphic-lg-s {
+  width: 220px;
+}
+
 .event-graphic-lg {
-  width: 360px;
+  width: 270px;
 }
 
 .event-detail {
