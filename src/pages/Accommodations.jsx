@@ -38,7 +38,7 @@ const accommodations = [
   {
     name: 'Airbnb near Sheraton Park Hotel',
     detail: 'Browse nearby rentals',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/1200px-Airbnb_Logo_B%C3%A9lo.svg.png',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/1280px-Airbnb_Logo_B%C3%A9lo.svg.png',
     url: 'https://www.airbnb.com/s/Sheraton-Park-Hotel-at-the-Anaheim-Resort--Anaheim--CA/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJI7_SCt3X3IARVfVQibae0tg&acp_id=t-g-ChIJI7_SCt3X3IARVfVQibae0tg&date_picker_type=calendar&checkin=2026-05-01&checkout=2026-05-04&adults=4&search_type=user_map_move&drawer_open=true&query=Sheraton%20Park%20Hotel%20at%20the%20Anaheim%20Resort%2C%20Anaheim%2C%20CA&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-01-01&monthly_length=3&monthly_end_date=2026-04-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=3&channel=EXPLORE&ne_lat=33.7994876569213&ne_lng=-117.92181831040989&sw_lat=33.79585031208318&sw_lng=-117.92517202859892&search_by_map=true&zoom_level=17.31920622958689&map_toggle=true',
   },
 ];
