@@ -43,10 +43,10 @@ export default function Home() {
           <img className="timeline-intro-img" src={imgUjwal} alt="Ujwal" />
         </div>
 
-        <svg className="timeline-connector" viewBox="0 0 600 80" preserveAspectRatio="none">
-          <line x1="200" y1="0" x2="300" y2="80" stroke="#c9a84c" strokeWidth="3" />
-          <line x1="400" y1="0" x2="300" y2="80" stroke="#c9a84c" strokeWidth="3" />
-        </svg>
+        <div className="timeline-connector-lines">
+          <div className="connector-line connector-line-left"></div>
+          <div className="connector-line connector-line-right"></div>
+        </div>
 
         <div className="timeline">
         {timelineData.map((item, i) => (
